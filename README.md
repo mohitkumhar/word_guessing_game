@@ -22,12 +22,4 @@ Welcome to the Word Guessing Game! This simple Python game challenges players to
 
 If you'd like to contribute to the development of this Word Guessing Game, feel free to fork the repository and submit pull requests.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- The word list used in the game is inspired by [word-guessing-game](https://github.com/wesbos/JavaScript30) by Wes Bos.
-
-Feel free to customize the README according to your preferences and add more details if needed. The above Markdown includes code blocks, bullet points, and hyperlinks for a more visually appealing and informative README on GitHub.
